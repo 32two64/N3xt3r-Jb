@@ -1,2 +1,2 @@
 # N3xt3r-Jb
-iOS 11.0.1 - 11.1.2 Jailbreak Semi-Untethered (Incomplete)
+iOS 10.3 & 10.3.1 Jailbreak Semi-Untethered (Incomplete)
